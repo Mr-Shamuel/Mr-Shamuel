@@ -60,6 +60,8 @@ I am a Front End React js Developer. I have completed my B.Sc. in CSE from Daffo
 </a>  
 </div>  
 
+<br/>  
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-shamuel&show_icons=true&locale=en&layout=compact" alt="mr-shamuel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-shamuel&show_icons=true&locale=en" alt="mr-shamuel" /></p>
