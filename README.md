@@ -46,7 +46,7 @@ Skills: Web Developing ● Html5 ● CSS ● Bootstrap ● Material Ui ● JavaS
 
 ![GitHub metrics](https://metrics.lecoq.io/mr-shamuel)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mr-shamuel)  
+ 
 
 ![Profile views](https://gpvc.arturio.dev/mr-shamuel)  
 
