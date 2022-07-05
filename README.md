@@ -1,5 +1,5 @@
 ![#1 Front End Web Developer🚀 | React.js developer |🤝 Partner - Helping clients to make their website more Attractive.](https://pbs.twimg.com/profile_banners/1064557797025603584/1657028571/1500x500)
-#### #1 Front End Web Developer🚀 | React.js developer | 
+#### #1 Front End Web Developer🚀 | React.js developer | ![Profile views](https://gpvc.arturio.dev/mr-shamuel)  
  
 I am a Front End React js Developer. I have completed my B.Sc. in CSE from Daffodil International University. I have 1.5 years of experience in Web Developing.  I have completed a lot of projects . 
 
@@ -83,7 +83,7 @@ I am a Front End React js Developer. I have completed my B.Sc. in CSE from Daffo
 
  
 
-![Profile views](https://gpvc.arturio.dev/mr-shamuel)  
+
 
  
 
