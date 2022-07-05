@@ -3,7 +3,11 @@
  
 I am a Front End React js Developer. I have completed my B.Sc. in CSE from Daffodil International University. I have 1.5 years of experience in Web Developing.  I have completed a lot of projects . 
 
-###Skills: ✅Html5 ✅CSS ✅ Bootstrap ✅Material Ui ✅ JavaScript ✅ Firebase ✅ MongoDB ✅ Express.js✅ API Frameworks ✅ React.js ✅ Node.js         
+#### Skills:
+✅Html5 ✅CSS ✅ Bootstrap
+✅Material Ui ✅ JavaScript ✅ Firebase
+✅ MongoDB ✅ Express.js✅ API Frameworks 
+✅ React.js ✅ Node.js         
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 - 🌱 I’m currently learning **MongoDB**
 
