@@ -3,8 +3,7 @@
  
 I am a Front End React js Developer. I have completed my B.Sc. in CSE from Daffodil International University. I have 1.5 years of experience in Web Developing.  I have completed a lot of projects . 
 
-Skills: Web Developing ● Html5 ● CSS ● Bootstrap ● Material Ui ● JavaScript ● Firebase ● MongoDB ● Express.js ● API Frameworks ● React.js ● Node.js Languages ● C ● Assembly Language ● Data-Structure ● MySQL Other Skills ● Graphics Design- Adobe  Photoshop 2020 ● Video Editing – Adobe  Premiere pro-2020 ● MS Office ● Operating systemWindows (XP,7,8,8.1,10) ● Typing -English & Bangla ● Internet Browsing &  Email Management.
-
+###Skills: ✅Html5 ✅CSS ✅ Bootstrap ✅Material Ui ✅ JavaScript ✅ Firebase ✅ MongoDB ✅ Express.js✅ API Frameworks ✅ React.js ✅ Node.js         
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 - 🌱 I’m currently learning **MongoDB**
 
@@ -13,8 +12,6 @@ Skills: Web Developing ● Html5 ● CSS ● Bootstrap ● Material Ui ● JavaS
 - 💬 Ask me about **My Projects**👷‍♀️
 
 - 📫 How to reach me **shamuelsam300@gmail.com**📩
-- 
-
 - 📄 Resume [https://drive.google.com/file/d/1m_Zm8kBfTBqr-w7wL5-byQtgtpejicf3/view?usp=sharing](https://drive.google.com/file/d/1m_Zm8kBfTBqr-w7wL5-byQtgtpejicf3/view?usp=sharing)
 - ⚡ Fun fact: I play pubg mobile🤪 
 <h3 align="left">Connect with me:</h3>
